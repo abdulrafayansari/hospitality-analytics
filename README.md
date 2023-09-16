@@ -10,7 +10,7 @@ Hotels in cities and resorts have experienced significant cancellation rates rec
 
 The major subjects of this research are an investigation of hotel booking cancellations as well as other reasons that affect their business or yearly income creation.
 
-<img src="https://github.com/ashukesharwani/Data-Analysis-For-Hotel_Booking-Using_Python/assets/83163103/2a6d8f8d-27d8-47ec-8fc2-227bfb8a0207">
+
 
 
 ### Research Question:
