@@ -25,27 +25,27 @@ The major subjects of this research are an investigation of hotel booking cancel
 
 ## Analysis and findings:
 
- <img src="https://github.com/abdulrafayansari/hospitality-analytics/assets/129757543/4fe3f65a-7f40-45d3-bbab-e586710fd9aa">
+ <img src="https://github.com/abdulrafayansari/hospitality-analytics/assets/129757543/bf3a9710-a02d-457b-b77f-327b97722ddb">
 
  The reservation statistics count between hotels that were canceled and hotels that were not canceled are displayed in the accompanying bar graph. It is clear that a sizable percentage of reservations remain uncanceled. The hotel's revenue is significantly impacted by the 37% of customers who still cancel their bookings.
 
-  <img src="https://github.com/abdulrafayansari/hospitality-analytics/assets/129757543/5400346d-4f4e-4900-b927-17a86d0ae9fd">
+  <img src="https://github.com/abdulrafayansari/hospitality-analytics/assets/129757543/5aa9047b-e8b3-4bf3-a3c8-d03cd5c9ab6f">
   
   The graph above compares hotels in resort areas and those in cities. City hotels have more reservations than resort hotels. It's probable that resort hotels cost more than hotels in urban areas.
   
-  <img src="https://github.com/abdulrafayansari/hospitality-analytics/assets/129757543/686e7860-336d-4bb3-b5c6-b071d73f6299">
+  <img src="https://github.com/abdulrafayansari/hospitality-analytics/assets/129757543/c4e01f50-9c18-4827-95ce-d64c075fccd1">
   
   The line graph above demonstrates that, on certain days, a city hotel's average daily rate is less than a resort hotel's, and that, on other days, it is even less. It goes without saying that resort hotel costs may increase during the weekend and throughout the holidays.
   
-  <img src="https://github.com/abdulrafayansari/hospitality-analytics/assets/129757543/3fa57a45-4fb6-4b32-9911-399b20a124ec)">
+  <img src="https://github.com/abdulrafayansari/hospitality-analytics/assets/129757543/57ad50fb-660e-407f-9bdc-a602b675fb32">
 
   We have created the grouped bar graph to analyze the months with the highest and lowest reservation levels according to reservation status. As can be seen, both the number of confirmed reservations and the number of canceled reservations are highest in the month of August, whereas January is the month with the most canceled reservations.
   
-  <img src="download3](![download4](![download5](https://github.com/abdulrafayansari/hospitality-analytics/assets/129757543/9a394dff-1e76-49fb-84f2-7e1b8c63c6f5">
+  <img src="https://github.com/abdulrafayansari/hospitality-analytics/assets/129757543/fe6107aa-f665-48d8-b06d-dca1ec9f88e4">
 
   This bar graph shows that cancellations are most common when prices are highest and least common when they are lowest. Therefore, the cost of the accommodation is solely responsible for the cancellation.
   
-  <img src="github.com/abdulrafayansari/hospitality-analytics/assets/129757543/c9e1eff6-ffd3-48ed-b542-721e0f2fdac8">
+  <img src="https://github.com/abdulrafayansari/hospitality-analytics/assets/129757543/a975df20-3a1c-4c8a-a1a9-3c659416001a">
   
   Now, let’s see which country has the highest number of reservations canceled. The top country is Portugal, with the highest number of cancellations.
 
@@ -62,7 +62,7 @@ The major subjects of this research are an investigation of hotel booking cancel
   
   Let's look at the region from which visitors to the hotel and bookings originate. Is it coming from offline or online travel agents, direct groups, or both? 16% of the customers are groups, while 47% come via online travel agencies. Only 10% of customers make direct reservations at hotels by going there in person.
   
-  <img src="github.com/abdulrafayansari/hospitality-analytics/assets/129757543/4e2a40e9-f404-49d2-8a1f-d8d5057d762b">
+  <img src="https://github.com/abdulrafayansari/hospitality-analytics/assets/129757543/77c8a283-4720-432b-8162-93c11248992b">
   <img src="https://github.com/abdulrafayansari/hospitality-analytics/assets/129757543/239fdd63-debf-40e8-9f29-aace48b91d7e">
   
   As seen in the graph, reservations are canceled when the average daily rate is higher than when they are not canceled. It clearly proves all the above analysis: that a higher price leads to higher cancellations.
