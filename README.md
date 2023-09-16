@@ -1,5 +1,4 @@
 # hospitality-analytics
-# Hotel Booking Analysis
 <p align="center">
      <b>A data analysis report to optimize the hotel's dwindling profit and lower reservation cancellations.</b>
 </p>
@@ -8,20 +7,14 @@
 
 Hotels in cities and resorts have experienced significant cancellation rates recently. As a result, each hotel is currently dealing with a variety of problems, such as decreased revenues and less-than-optimum hotel room usage. As a result, our main objective is to provide a comprehensive business guide to handle this issue and minimize cancellation rates in order to boost the hotel's efficiency in producing income.
 
-The major subjects of this research are an investigation of hotel booking cancellations as well as other reasons that affect their business or yearly income creation.
+<b>The major subjects of this research are an investigation of hotel booking cancellations as well as other reasons that affect their business or yearly income creation.</b>
 
-
-
-
-### Research Question:
+### Simplified Research Questions
  1. What are the more important influencing variables for canceled hotel reservations?
  2. How can we reduce the number of hotel reservations that get canceled?
  3. How will hotels be supported in choosing their prices and marketing strategies?
 
-### Hypothesis:
-1. When prices are higher, there are more cancellations.
-2. Customers tend to cancel more frequently when there is a long waiting list.
-3. The majority of customers use traditional travel agencies to book their travel.
+
 
 ## Analysis and findings:
 
@@ -63,19 +56,10 @@ The major subjects of this research are an investigation of hotel booking cancel
   Let's look at the region from which visitors to the hotel and bookings originate. Is it coming from offline or online travel agents, direct groups, or both? 16% of the customers are groups, while 47% come via online travel agencies. Only 10% of customers make direct reservations at hotels by going there in person.
   
   <img src="https://github.com/abdulrafayansari/hospitality-analytics/assets/129757543/77c8a283-4720-432b-8162-93c11248992b">
-  <img src="https://github.com/abdulrafayansari/hospitality-analytics/assets/129757543/239fdd63-debf-40e8-9f29-aace48b91d7e">
   
   As seen in the graph, reservations are canceled when the average daily rate is higher than when they are not canceled. It clearly proves all the above analysis: that a higher price leads to higher cancellations.
 
-  ### Suggestions:
   
-  1. The cancellation rate rises as the price does. In order to prevent cancellations of reservations, hotels could work on their pricing strategies and try to lower the rates for specific hotels based on location. They can also provide some discounts to consumers.
-  2. As the ratio of cancellations and not_cancellations in the resort hotel is higher than in the city hotel, So the hotel should provide a reasonable discount on the room prices on weekends or holidays.
-  3. In the month of January, hotels can start campaigns or marketing with a reasonable amount to increase their revenue, as the cancellation rate is higher in this month.
-  4. They can also increase the quality of their hotels and their services, mainly in Portugal, to reduce the cancellation rate.
-  
-<p>June 2023 – Juily 2023<p/>
-
 
 
 
