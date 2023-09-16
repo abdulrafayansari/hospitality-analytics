@@ -25,7 +25,7 @@ The major subjects of this research are an investigation of hotel booking cancel
 
 ## Analysis and findings:
 
- <img src="https://github.com/ashukesharwani/Data-Analysis-For-Hotel_Booking-Using_Python/assets/83163103/94cf93f8-de2b-479a-8555-955bafa3b9f6">
+ <img src="![download (1)](https://github.com/abdulrafayansari/hospitality-analytics/assets/129757543/4fe3f65a-7f40-45d3-bbab-e586710fd9aa)">
 
  The reservation statistics count between hotels that were canceled and hotels that were not canceled are displayed in the accompanying bar graph. It is clear that a sizable percentage of reservations remain uncanceled. The hotel's revenue is significantly impacted by the 37% of customers who still cancel their bookings.
 
